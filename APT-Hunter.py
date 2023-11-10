@@ -1,6 +1,5 @@
 import traceback
 import logging
-from lib.Banner import *
 import argparse
 import pandas as pd
 import lib.EvtxDetection as EvtxDetection
